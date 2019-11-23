@@ -23,7 +23,7 @@ And then run the Link exe with the command:
 |----|:-----:|
 |Horizontal tab key| Translate model right|
 |Backspace key| Translate model left|
-|A or a key| Translate model up|
+|W or w key| Translate model up|
 |S or s key| Translate model down|
 |Z or z key| Translate model close|
 |X or x key| Translate model far|
