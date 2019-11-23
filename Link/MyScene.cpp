@@ -397,7 +397,7 @@ void display() {
         glVertex3f(8, 13, 0);
 
         //Todo la Piel
-        glColor3f(1.f, 0.95f, 0.5f); // piel
+        glColor3f(1.0f, 0.95f, 0.5f); // piel
 
         //Manita izquierda
 
