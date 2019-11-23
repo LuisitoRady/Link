@@ -7,6 +7,16 @@ Project consists of replicating a model with Microsoft Maquette and OpenGl where
 
 In this repository you'll find the code and executable of the project in the ***Link*** folder and image evidence in the ***img*** folder.
 
+### Compiling and executing
+
+Possibly the Link executable will not execute correctly if you clone or download the repository so you need to compile the ***MyScene.cpp*** file with this command:
+
+`g++ -o Link MyScene.cpp -framework GLUT -framework OpenGL`
+
+And then run the Link exe with the command:
+
+`./Link`
+
 The model counts with:
 #### Translations
 
